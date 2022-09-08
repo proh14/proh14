@@ -42,6 +42,5 @@
 
 ## Communication ways
 
-<br/>
 
 ### Discord **_proh14#8748_**
