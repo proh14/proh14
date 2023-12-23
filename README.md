@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **rust**
 
-- 👨‍💻 All of my projects are available at (work in progress) [proh14.net](proh14.net)
+- 👨‍💻 All of my projects are available at [proh14.net](proh14.net)
 
-- 📝 I regularly write articles on (work in progress) [blog.proh14.net](blog.proh14.net)
+- 📝 I regularly write articles on [proh14.net/posts](proh14.net/posts)
 
 - 💬 Ask me about **low-level**
 
