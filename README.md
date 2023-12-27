@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm proh14 (Hoorad)</h1>
-<h3 align="center">An 13 school C developer!</h3>
+<h3 align="center">An 13 y/o school C developer!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proh14&label=Profile%20views&color=0e75b6&style=flat" alt="proh14" /> </p>
 
