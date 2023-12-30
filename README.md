@@ -3,6 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=proh14&label=Profile%20views&color=0e75b6&style=flat" alt="proh14" /> </p>
 
+Say hello to dear gnu
+```
+  ,= ,-_-. =.
+ ((_/)o o(\_))
+  `-'(. .)`-'
+      \_/
+```
+
+
 - 🔭 I’m currently working on [ptext](https://github.com/proh14/ptext) and psh(coming soon)
 
 - 🌱 I’m currently learning **rust**
