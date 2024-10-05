@@ -28,8 +28,7 @@ Say hello to dear gnu ;)
 - ⚡ Fun fact **I play chess**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/770949660021227521" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="770949660021227521" height="30" width="40" /></a>
+  Discord id: proh14
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
