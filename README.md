@@ -19,7 +19,7 @@ Say hello to dear gnu ;)
 
 - 👨‍💻 All of my projects are available at [proh14.net](https://proh14.net)
 
-- 📝 I regularly write articles on [proh14.net/posts](https://proh14.net/posts)
+- 📝 I regularly write articles on [proh14.net/posts](https://proh14.github.io.net/posts)
 
 - 💬 Ask me about **low-level**
 
