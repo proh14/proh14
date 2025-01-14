@@ -17,9 +17,9 @@ Say hello to dear gnu ;)
 
 - 🌱 I’m currently learning **Everything**
 
-- 👨‍💻 All of my projects are available at [proh14.net](https://proh14.net)
+- 👨‍💻 All of my projects are available at [proh14.github.io](https://proh14.github.io)
 
-- 📝 I regularly write articles on [proh14.net/posts](https://proh14.github.io.net/posts)
+- 📝 I regularly write articles on [proh14.github.io/posts](https://proh14.github.io/posts)
 
 - 💬 Ask me about **low-level**
 
